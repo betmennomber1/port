@@ -1,0 +1,24 @@
+.col-8{
+    height: 115rem;
+    background-color: whitesmoke;
+}
+.col-5{
+    height: 15rem;
+    background-color: aqua;
+}
+.col-7{
+    height: 15rem;
+    background-color: aqua;
+}
+.col-6{
+    height: 15rem;
+    background-color: aqua;
+}
+.col-12{
+    height: 25rem;
+    background-color:white;
+}
+.col-1{
+    height: 4rem;
+    background-color: #fff;
+}
